@@ -1,0 +1,8 @@
+# Tested versions (Python 3.13, Windows 11). The expected numbers in README.md were measured with these.
+# clean_gif.py and make_lit.py import numpy, Pillow, scipy, scikit-learn and unfake; opencv-python is unfake's own dependency.
+numpy==2.5.3
+pillow==12.3.0
+scipy==1.18.1
+scikit-learn==1.9.1
+opencv-python==5.0.0.93
+unfake==1.0.7

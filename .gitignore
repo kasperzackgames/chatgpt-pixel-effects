@@ -1,0 +1,15 @@
+# Python caches and the virtual environment from the Quickstart
+__pycache__/
+*.py[cod]
+.venv/
+
+# what the scripts write (python scripts/clean_gif.py ... --out-dir out, out/lit/ from step 3)
+/out/
+
+# Godot's editor cache and the import files it writes next to the assets
+godot/.godot/
+godot/**/*.import
+
+# movie frames recorded into godot/capture/ (the folder itself stays, with its .gdignore)
+godot/capture/*.png
+godot/capture/*.wav

@@ -1,0 +1,428 @@
+{
+ "frames": [
+  {
+   "filename": "explosion_00",
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 122,
+    "h": 116
+   },
+   "duration": 80
+  },
+  {
+   "filename": "explosion_01",
+   "frame": {
+    "x": 122,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 122,
+    "h": 116
+   },
+   "duration": 80
+  },
+  {
+   "filename": "explosion_02",
+   "frame": {
+    "x": 244,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 122,
+    "h": 116
+   },
+   "duration": 80
+  },
+  {
+   "filename": "explosion_03",
+   "frame": {
+    "x": 366,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 122,
+    "h": 116
+   },
+   "duration": 80
+  },
+  {
+   "filename": "explosion_04",
+   "frame": {
+    "x": 488,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 122,
+    "h": 116
+   },
+   "duration": 80
+  },
+  {
+   "filename": "explosion_05",
+   "frame": {
+    "x": 610,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 122,
+    "h": 116
+   },
+   "duration": 80
+  },
+  {
+   "filename": "explosion_06",
+   "frame": {
+    "x": 732,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 122,
+    "h": 116
+   },
+   "duration": 80
+  },
+  {
+   "filename": "explosion_07",
+   "frame": {
+    "x": 854,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 122,
+    "h": 116
+   },
+   "duration": 80
+  },
+  {
+   "filename": "explosion_08",
+   "frame": {
+    "x": 976,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 122,
+    "h": 116
+   },
+   "duration": 80
+  },
+  {
+   "filename": "explosion_09",
+   "frame": {
+    "x": 1098,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 122,
+    "h": 116
+   },
+   "duration": 80
+  },
+  {
+   "filename": "explosion_10",
+   "frame": {
+    "x": 1220,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 122,
+    "h": 116
+   },
+   "duration": 80
+  },
+  {
+   "filename": "explosion_11",
+   "frame": {
+    "x": 1342,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 122,
+    "h": 116
+   },
+   "duration": 80
+  },
+  {
+   "filename": "explosion_12",
+   "frame": {
+    "x": 1464,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 122,
+    "h": 116
+   },
+   "duration": 80
+  },
+  {
+   "filename": "explosion_13",
+   "frame": {
+    "x": 1586,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 122,
+    "h": 116
+   },
+   "duration": 80
+  },
+  {
+   "filename": "explosion_14",
+   "frame": {
+    "x": 1708,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 122,
+    "h": 116
+   },
+   "duration": 80
+  },
+  {
+   "filename": "explosion_15",
+   "frame": {
+    "x": 1830,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 122,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 122,
+    "h": 116
+   },
+   "duration": 80
+  }
+ ],
+ "meta": {
+  "app": "clean_gif.py (ChatGPT GIF to sprite sheet)",
+  "image": "explosion_sheet.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 1952,
+   "h": 116
+  },
+  "scale": "1",
+  "art_pixel": 1,
+  "frameTags": [
+   {
+    "name": "anticipation",
+    "from": 0,
+    "to": 0,
+    "direction": "forward"
+   },
+   {
+    "name": "impact",
+    "from": 1,
+    "to": 1,
+    "direction": "forward"
+   },
+   {
+    "name": "fireball",
+    "from": 2,
+    "to": 8,
+    "direction": "forward"
+   },
+   {
+    "name": "smoke",
+    "from": 9,
+    "to": 15,
+    "direction": "forward"
+   }
+  ],
+  "anchor": {
+   "x": 61,
+   "y": 115,
+   "kind": "bottom",
+   "note": "pixel where the effect touches the ground; put the sprite origin here"
+  },
+  "palette": [
+   "#fdfbef",
+   "#fdf593",
+   "#fdda0d",
+   "#d7d3ce",
+   "#faca1e",
+   "#f9a41a",
+   "#d19d6c",
+   "#a6a29f",
+   "#fa7813",
+   "#9c9793",
+   "#cb7d66",
+   "#f75010",
+   "#888482",
+   "#e83116",
+   "#787370",
+   "#ca2c22",
+   "#835c5a",
+   "#a9121c",
+   "#5c5755",
+   "#8a3938",
+   "#4e4947",
+   "#7c1c1f",
+   "#3d3735",
+   "#5d0f10",
+   "#23201e",
+   "#171412"
+  ],
+  "loop": false
+ }
+}

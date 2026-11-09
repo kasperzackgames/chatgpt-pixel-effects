@@ -1,0 +1,380 @@
+{
+ "frames": [
+  {
+   "filename": "lightning_00",
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 155
+   },
+   "duration": 70
+  },
+  {
+   "filename": "lightning_01",
+   "frame": {
+    "x": 208,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 155
+   },
+   "duration": 70
+  },
+  {
+   "filename": "lightning_02",
+   "frame": {
+    "x": 416,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 155
+   },
+   "duration": 70
+  },
+  {
+   "filename": "lightning_03",
+   "frame": {
+    "x": 624,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 155
+   },
+   "duration": 70
+  },
+  {
+   "filename": "lightning_04",
+   "frame": {
+    "x": 832,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 155
+   },
+   "duration": 70
+  },
+  {
+   "filename": "lightning_05",
+   "frame": {
+    "x": 1040,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 155
+   },
+   "duration": 70
+  },
+  {
+   "filename": "lightning_06",
+   "frame": {
+    "x": 1248,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 155
+   },
+   "duration": 70
+  },
+  {
+   "filename": "lightning_07",
+   "frame": {
+    "x": 1456,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 155
+   },
+   "duration": 70
+  },
+  {
+   "filename": "lightning_08",
+   "frame": {
+    "x": 1664,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 155
+   },
+   "duration": 70
+  },
+  {
+   "filename": "lightning_09",
+   "frame": {
+    "x": 1872,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 155
+   },
+   "duration": 70
+  },
+  {
+   "filename": "lightning_10",
+   "frame": {
+    "x": 2080,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 155
+   },
+   "duration": 70
+  },
+  {
+   "filename": "lightning_11",
+   "frame": {
+    "x": 2288,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 155
+   },
+   "duration": 70
+  },
+  {
+   "filename": "lightning_12",
+   "frame": {
+    "x": 2496,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 155
+   },
+   "duration": 70
+  },
+  {
+   "filename": "lightning_13",
+   "frame": {
+    "x": 2704,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 155
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 155
+   },
+   "duration": 70
+  }
+ ],
+ "meta": {
+  "app": "clean_gif.py (ChatGPT GIF to sprite sheet)",
+  "image": "lightning_sheet.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 2912,
+   "h": 155
+  },
+  "scale": "1",
+  "art_pixel": 1,
+  "frameTags": [
+   {
+    "name": "anticipation",
+    "from": 0,
+    "to": 5,
+    "direction": "forward"
+   },
+   {
+    "name": "impact",
+    "from": 6,
+    "to": 6,
+    "direction": "forward"
+   },
+   {
+    "name": "fireball",
+    "from": 7,
+    "to": 6,
+    "direction": "forward"
+   },
+   {
+    "name": "smoke",
+    "from": 7,
+    "to": 13,
+    "direction": "forward"
+   }
+  ],
+  "anchor": {
+   "x": 104,
+   "y": 154,
+   "kind": "bottom",
+   "note": "pixel where the effect touches the ground; put the sprite origin here"
+  },
+  "palette": [
+   "#f6fcfc",
+   "#bdf4fa",
+   "#4eecfa",
+   "#98ddf7",
+   "#34d5f4",
+   "#a7b7f9",
+   "#2fbffa",
+   "#20c4c5",
+   "#899bf9",
+   "#47a8f8",
+   "#22a9ac",
+   "#3196db",
+   "#5579f8",
+   "#2b9293",
+   "#5767f0",
+   "#3680a7",
+   "#713af9",
+   "#484fec",
+   "#3a56bd",
+   "#3234ec",
+   "#3f5d62",
+   "#3f4746"
+  ],
+  "loop": false
+ }
+}

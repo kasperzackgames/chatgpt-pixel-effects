@@ -1,0 +1,422 @@
+{
+ "frames": [
+  {
+   "filename": "beam_00",
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 200,
+    "h": 98
+   },
+   "duration": 70
+  },
+  {
+   "filename": "beam_01",
+   "frame": {
+    "x": 200,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 200,
+    "h": 98
+   },
+   "duration": 70
+  },
+  {
+   "filename": "beam_02",
+   "frame": {
+    "x": 400,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 200,
+    "h": 98
+   },
+   "duration": 70
+  },
+  {
+   "filename": "beam_03",
+   "frame": {
+    "x": 600,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 200,
+    "h": 98
+   },
+   "duration": 70
+  },
+  {
+   "filename": "beam_04",
+   "frame": {
+    "x": 800,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 200,
+    "h": 98
+   },
+   "duration": 70
+  },
+  {
+   "filename": "beam_05",
+   "frame": {
+    "x": 1000,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 200,
+    "h": 98
+   },
+   "duration": 70
+  },
+  {
+   "filename": "beam_06",
+   "frame": {
+    "x": 1200,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 200,
+    "h": 98
+   },
+   "duration": 70
+  },
+  {
+   "filename": "beam_07",
+   "frame": {
+    "x": 1400,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 200,
+    "h": 98
+   },
+   "duration": 70
+  },
+  {
+   "filename": "beam_08",
+   "frame": {
+    "x": 1600,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 200,
+    "h": 98
+   },
+   "duration": 70
+  },
+  {
+   "filename": "beam_09",
+   "frame": {
+    "x": 1800,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 200,
+    "h": 98
+   },
+   "duration": 70
+  },
+  {
+   "filename": "beam_10",
+   "frame": {
+    "x": 2000,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 200,
+    "h": 98
+   },
+   "duration": 70
+  },
+  {
+   "filename": "beam_11",
+   "frame": {
+    "x": 2200,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 200,
+    "h": 98
+   },
+   "duration": 70
+  },
+  {
+   "filename": "beam_12",
+   "frame": {
+    "x": 2400,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 200,
+    "h": 98
+   },
+   "duration": 70
+  },
+  {
+   "filename": "beam_13",
+   "frame": {
+    "x": 2600,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 200,
+    "h": 98
+   },
+   "duration": 70
+  },
+  {
+   "filename": "beam_14",
+   "frame": {
+    "x": 2800,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 200,
+    "h": 98
+   },
+   "duration": 70
+  },
+  {
+   "filename": "beam_15",
+   "frame": {
+    "x": 3000,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 200,
+    "h": 98
+   },
+   "duration": 70
+  }
+ ],
+ "meta": {
+  "app": "clean_gif.py (ChatGPT GIF to sprite sheet)",
+  "image": "beam_sheet.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 3200,
+   "h": 98
+  },
+  "scale": "1",
+  "art_pixel": 1,
+  "frameTags": [
+   {
+    "name": "anticipation",
+    "from": 0,
+    "to": 3,
+    "direction": "forward"
+   },
+   {
+    "name": "impact",
+    "from": 4,
+    "to": 4,
+    "direction": "forward"
+   },
+   {
+    "name": "fireball",
+    "from": 5,
+    "to": 7,
+    "direction": "forward"
+   },
+   {
+    "name": "smoke",
+    "from": 8,
+    "to": 15,
+    "direction": "forward"
+   }
+  ],
+  "anchor": {
+   "x": 0,
+   "y": 50,
+   "kind": "left",
+   "note": "beam origin at the left edge; put the caster's hand here"
+  },
+  "palette": [
+   "#fcfdfd",
+   "#c7f8fc",
+   "#95fbfe",
+   "#3bfbfd",
+   "#18f1fa",
+   "#aad2f7",
+   "#c4c4c9",
+   "#31cdfc",
+   "#99acee",
+   "#2aa9fa",
+   "#8596f8",
+   "#9696cc",
+   "#1890fb",
+   "#7b80e8",
+   "#6c6dd9",
+   "#1e71f8",
+   "#585ae4",
+   "#143ef8",
+   "#0412f7",
+   "#1012d1"
+  ],
+  "loop": false
+ }
+}
