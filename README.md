@@ -6,6 +6,8 @@ One ChatGPT prompt makes the animation; a script turns it into a real sprite she
 
 The big effects in this fight are ChatGPT GIFs, one prompt each: the energy beams (one GIF, mirrored and recoloured for the second beam), the lightning, the explosion and the volcano eruption. Everything else (the stick figures, camera, light, background motion and small extras such as rocks, sparks and cracks) is code in a fight scene that is not part of this repository. The prompts, the cleanup script, the cleaned sprite sheets and a Godot scene for the explosion are.
 
+**Video tutorial:** [How to Make a Pixel Art Explosion with ChatGPT (Step by Step)](https://www.youtube.com/watch?v=Zu3a0PBJk_s). The video shows the same four steps in under two minutes.
+
 ## Contents
 
 - [Quickstart](#quickstart)
